@@ -24,7 +24,7 @@ pip3 install pypresence
 ### Create a Discord Application
 - Visit https://discord.com/developers/applications and click "**New Application**"
 - Select a name for your application (e.g. "Spotify Podcast", it will be visible in your Discord profile)
-- Copy the Application ID (aka Clint ID) in your "**.env**" file
+- Copy the Application ID (aka Client ID) in your "**.env**" file
 
 ### Get a Spotify user token
 - Visit https://developer.spotify.com/console/get-queue/ and click "**Get Token**"
