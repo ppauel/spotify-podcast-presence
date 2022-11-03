@@ -1,6 +1,8 @@
 # Spotify Podcast Discord Presence
 A Python script allowing you to display the podcast you're currently listening to in your Discord profile.
 
+![Example](https://i.imgur.com/80hSwPG.png)
+
 ## Installation
 
 ### Clone the repository
